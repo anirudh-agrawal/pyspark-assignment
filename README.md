@@ -7,7 +7,7 @@ The dataset contains information from over 1300 weather stations distributed ove
 
 The data has been analysed using PySpark and Tableau. The readings were aggregated at district level before analysis. Most of the analysis is carried out at a monthly level.
 
-[Indian Weather Summary[2000-2013]](https://public.tableau.com/views/WeatherAnalysis_16014109382880/LeastHumidDistricts?:language=en&:display_count=y&publish=yes&:origin=viz_share_link)
+[Indian Weather Summary[2000-2013]](https://public.tableau.com/views/WeatherAnalysis_16014109382880/IndianWeatherOvertheYears?:language=en&:display_count=y&publish=yes&:origin=viz_share_link)
 
 [Indian Weather Stations](https://public.tableau.com/views/WeatherStations_16012881337010/DistrictMap?:language=en&:display_count=y&publish=yes&:origin=viz_share_link)
 
