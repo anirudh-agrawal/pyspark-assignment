@@ -47,7 +47,7 @@ List of Weather Stations:
    - [Link](http://www.imdpune.gov.in/ndc_new/stations/DRMS_STN.html)
 
 Weather Data:
-   - Provided by Texax A&M University
+   - Provided by Texas A&M University
    - [Link](https://globalweather.tamu.edu/)
    - _Note_: Data has not been uploaded due to size constraints. The original data downloaded contained information for over 5000 stations in the Indian Subcontinent. The data has been filtered to match to the closest weather station from the list of weather stations provided by IMD.
    
